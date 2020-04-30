@@ -1,0 +1,11 @@
+#Create docker instance for a server application that will host the created python script Airline_booking.py
+
+#The application is just backend and no front end has been developed yet.
+
+#The idea is to get the flight booking app to run and can scale using load balance methodology as taught my Sir Vimal in IIEC docker.
+
+#The script will be accessed from an outside Network hence we will enable PAT and NAT from local host computer to RHEL8 instance hosting docker container.
+
+#the script should run as required by confirm a booking on a flight system.
+
+#improvement of script for future use
