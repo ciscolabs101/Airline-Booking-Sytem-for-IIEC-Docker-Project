@@ -88,19 +88,21 @@ class Flight:
             print(f"{passenger} not on the manifest")
             
 #Make a flight and print out details
-plane = Flight("Airbus100", "AB12",50,200)
+#plane = Flight("Airbus100", "AB12",50,200)
+
 #Get status
-plane.status()
-print('\n')
+#plane.status()
+#print('\n')
+
 #Declare Manifest
-plane.declare_manifest()
-print('\n')
-plane.is_checked_in('Paschal')
-print('\n')
-plane.booking('Paschal', 1, 20)
-plane.is_checked_in('Paschal')
-print('\n')
-plane.check_in('Paschal')
-plane.is_checked_in('Paschal')
-print('\n')
-plane.status()
+#plane.declare_manifest()
+#print('\n')
+#plane.is_checked_in('John')
+#print('\n')
+#plane.booking('John', 1, 20)
+#plane.is_checked_in('John')
+#print('\n')
+#plane.check_in('John')
+#plane.is_checked_in('John')
+#print('\n')
+#plane.status()
