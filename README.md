@@ -13,3 +13,7 @@ IIEC2020_45_2_5
 Shaistha #please edit
 
 IIEC2020 #please provide 
+
+#Docker Session Notes for review
+
+https://drive.google.com/file/d/1fVueBXSOA81yqnHZAnD2le8gGMYi8oDl/view?usp=drivesdk
